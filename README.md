@@ -42,5 +42,6 @@
 📫 Email: **tommusyoka961@gmail.com**  
 🔗 LinkedIn: www.linkedin.com/in/tom-musyoka-699024378(#)  
 🌍 Portfolio: https://sites.google.com/view/tom-musyoka?usp=sharing(#)  
-
+📱 WhatsApp: Message Me https://wa.me/254113013792  
+📞 Call: +254 113 013 792 
 ---
