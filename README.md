@@ -56,7 +56,7 @@ My mission is to make technology approachable and impactful turning creative ide
 | 🌍 **LensVault** | A platform for photographers/videographers to store, manage & deliver media securely. | HTML, CSS, JS, Firebase | COMING SOON
 | 💇‍♂️ **Salon & Spa Website** | An elegant salon/barbershop booking system with WhatsApp & M-Pesa integration. | Node.js, TailwindCSS, Express |
 | 🥜 **Twiga Butter** | A peanut butter brand site that documents real entrepreneurship journey. | Tailwind CSS, JavaScript |
-| 📸 **MagicWorld Production Website** | Photography & branding hub helping creators build visual identity. | HTML, CSS, Branding |
+| 📸 **MagicWorld Production Website** | Photography/videography landing page to connect with clients | HTML, CSS, Branding |
 
 <p align="center">
   🔗 <a href="https://github.com/DibzDev?tab=repositories" target="_blank">View all my projects on GitHub</a>
