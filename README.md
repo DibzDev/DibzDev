@@ -108,7 +108,7 @@ My mission is to make technology approachable and impactful turning creative ide
 <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 
-<a href="https://sites.google.com/view/tom-musyoka?usp=sharing" target="_blank">
+<a href="https://dibzdev.github.io/My-Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
