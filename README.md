@@ -53,10 +53,10 @@ My mission is to make technology approachable and impactful turning creative ide
 ## 🧩 **Projects I'm Building**
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🌍 **LensVault** | A platform for photographers/videographers to store, manage & deliver media securely. | HTML, CSS, JS, Firebase |
+| 🌍 **LensVault** | A platform for photographers/videographers to store, manage & deliver media securely. | HTML, CSS, JS, Firebase | COMING SOON
 | 💇‍♂️ **Salon & Spa Website** | An elegant salon/barbershop booking system with WhatsApp & M-Pesa integration. | Node.js, TailwindCSS, Express |
 | 🥜 **Twiga Butter** | A peanut butter brand site that documents real entrepreneurship journey. | Tailwind CSS, JavaScript |
-| 📸 **Dibz Creation** | Photography & branding hub helping creators build visual identity. | HTML, CSS, Branding |
+| 📸 **MagicWorld Production Website** | Photography & branding hub helping creators build visual identity. | HTML, CSS, Branding |
 
 <p align="center">
   🔗 <a href="https://github.com/DibzDev?tab=repositories" target="_blank">View all my projects on GitHub</a>
